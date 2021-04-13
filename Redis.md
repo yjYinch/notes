@@ -23,5 +23,3 @@ make
 src/redis-server
 ```
 
-
-
